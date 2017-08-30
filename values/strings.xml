@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SvasthCMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="searching">Connecting....</string>
+    <string name="svasth_healthcare">Svasth Healthcare</string>
+    <string name="connect">Connect</string>
+    <string name="svasthcmslogotag">svasthcmslogotagline</string>
+    <string name="send">Send</string>
+    <string name="logo_and_tagline">Svasth Healthcare Logo and Tagline</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="heat_index">Heat Index</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="all_rights_reserved">All rights reserved</string>
+    <string name="pressure">Pressure Map</string>
+    <string name="motor">Motor On/Off</string>
+    <string name="alarm">Alarm Settings</string>
+    <string name="copyright_info">Copyright © 2014 Svasth Healthcare</string>
+    <string name="title_activity_fsrscreen">FSRScreen</string>
+    <string name="colorBoxForPressure">Color box to show pressure</string>
+    <string name="title_activity_alarm_settings">AlarmSettings</string>
+	<string name="ValueToTriggerAlarmAt">Set trigger value for\n Alarm</string>
+	<string name="TimePeriodForAlarmActuation">Set time period for\n Alarm actuation</string>
+	<string name="cancel">Cancel</string>
+	<string name="set">Set</string>
+	
+</resources>
